@@ -28,11 +28,11 @@ img {
     height: auto;
 }
 .container {
-    margin: 15vh auto;
+    margin: 7vh auto;
     width: 335px ;
     background-color: var(--White);
     border-radius: 1rem;
-   padding: 15px;
+    padding: 15px;
     text-align: center;
     color: var(--Grayishblue);
     box-shadow: -5px 5px 70px -50px black;
